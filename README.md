@@ -1,2 +1,1 @@
-# Random Quote Generator 
- 
+# Random Quote Generator - Techdegree Project #1
